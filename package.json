@@ -19,8 +19,7 @@
 		"debug": "^4.3.4",
 		"dotenv": "^16.0.0",
 		"luxon": "^3.0.4",
-		"mongodb": "^6.0.0",
-		"simple-git": "^3.7.1"
+		"mongodb": "^6.0.0"
 	},
 	"keywords": [
 		"utils"
